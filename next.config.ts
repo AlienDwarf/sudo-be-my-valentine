@@ -6,7 +6,7 @@ const repoName = "sudo-be-my-valentine";
 const nextConfig: NextConfig = {
     output: "export",
 
-    basePath: isProd ? `/${repoName}` : "",
+    //basePath: isProd ? `/${repoName}` : "",
 
     typescript: {
         ignoreBuildErrors: true,
