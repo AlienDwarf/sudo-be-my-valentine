@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-    title: "Eternal Flame",
+    title: "sudo be my valentine",
     description: "A special question for a special someone.",
 };
 
