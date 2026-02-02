@@ -2,7 +2,7 @@
 
 A simple, interactive Valentine's Day web page where the "No" button is programmatically elusive :)
 
-**[Demo](https://AlienDwarf.github.io/sudo-be-my-valentine)**
+**[Demo](https://sudo-be-my-valentine.vercel.app/)**
 
 ## Functionality
 
